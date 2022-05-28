@@ -355,3 +355,4 @@ MigrationBackup/
 .ionide/
 
 build/
+src/out/
