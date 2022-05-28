@@ -1,6 +1,8 @@
 # Lit.TodoMVC
 
-Sample [Fable.Lit](https://github.com/fable-compiler/Fable.Lit) app. To start a development server run:
+Sample [Fable.Lit](https://github.com/fable-compiler/Fable.Lit) app. Todo example removed and Tailwind PoC added.
+
+To start a development server run:
 
 ```
 npm install && npm start
